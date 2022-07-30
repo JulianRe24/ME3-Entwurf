@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-03122015-098407";"";
+"REFERENCE";"NU208E.TVP2";"";
+"TraceParts.PartTitle";"Zylinderrollenlager NU, Loslager,";"";
+"TraceParts.InstanceId";"30-03122015-098407AZVDD4YGBRBRDOI2T0G2RZEM9";"";
+"DESIGN";"Zylinderrollenlager NU, Loslager,";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Spindel- und Lagerungstechnik Fraureuth GmbH";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"SLF:30-03122015-098407";"";
