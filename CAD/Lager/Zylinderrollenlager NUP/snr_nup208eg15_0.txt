@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06012003-071206";"";
+"REFERENCE";"NUP208EG15";"";
+"STANDARD";"ISO 15";"";
+"TraceParts.PartTitle";"Zylinderrollenlager Typ NUP - für Wellen Ø40";"";
+"TraceParts.InstanceId";"10-06012003-071206B9OICGCT4N68GTJ9GZWSM25LB";"";
+"SUPPLIER";"NTN-SNR Roulements";"";
+"DESIGN";"Zylinderrollenlager Typ NUP - für Wellen Ø40";"";
+"TraceParts.PartVersion";"1.5.0";"";
+"TraceParts.PartLanguage";"de";"";
+"MASS";"0.399";"";
