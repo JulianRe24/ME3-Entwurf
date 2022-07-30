@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"OUTER_DIAMETER";"42";"";
+"REFERENCE";"16004";"";
+"INNER_DIAMETER";"20";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.InstanceId";"33-09092021-076871629EXW403O8BPMUA3Q3KKBA6F";"";
+"TraceParts.PartNumber";"33-09092021-076871";"";
+"TraceParts.PartTitle";"Einreihige Rillenkugellager, Reihe 160, Außendurchmesser 42 mm, Innendurchmesser 20 mm - 16004";"";
+"SUPPLIER";"Hans Saurer Kugellager AG";"";
+"DESIGN";"Einreihige Rillenkugellager, Reihe 160, Außendurchmesser 42 mm, Innendurchmesser 20 mm - 16004";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"WIDTH";"8";"";

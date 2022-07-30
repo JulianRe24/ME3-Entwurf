@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-03122015-098359";"";
+"REFERENCE";"62205";"";
+"TraceParts.PartTitle";"Rillenkugellager, breite Reihe";"";
+"TraceParts.InstanceId";"30-03122015-098359EHRURDHWQ1OAKHZLF4SY543ZC";"";
+"SUPPLIER";"Spindel- und Lagerungstechnik Fraureuth GmbH";"";
+"DESIGN";"Rillenkugellager, breite Reihe";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TraceParts.PartLanguage";"de";"";
