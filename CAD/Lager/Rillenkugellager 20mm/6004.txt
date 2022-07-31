@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-03122015-098345";"";
+"REFERENCE";"6004";"";
+"TraceParts.PartTitle";"Rillenkugellager";"";
+"TraceParts.InstanceId";"30-03122015-0983455JJCAZ3WG1UM75E4ETN0FP9AZ";"";
+"DESIGN";"Rillenkugellager";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Spindel- und Lagerungstechnik Fraureuth GmbH";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"SLF:30-03122015-098345";"";
