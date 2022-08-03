@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-28072020-044687";"";
+"REFERENCE";"Sicherheitskupplung SKB-KP 1000";"";
+"SUPPLIER_PART_NUMBER";"Sicherheitskupplung SKB-KP 1000";"";
+"TraceParts.PartTitle";"Sicherheitskupplung";"";
+"TraceParts.InstanceId";"90-28072020-044687BDR5ZC3X84R01O74Q1ESPAV2E";"";
+"SUPPLIER_NAME";"JAKOB Antriebstechnik GmbH";"";
+"SUPPLIER";"JAKOB Antriebstechnik GmbH";"";
+"DESIGN";"Sicherheitskupplung";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TraceParts.PartLanguage";"de";"";

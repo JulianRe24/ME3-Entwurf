@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-06122017-106291";"";
+"REFERENCE";"07330-401750";"";
+"TraceParts.PartTitle";"07330 Sicherungsringe für Wellen DIN 471";"";
+"TraceParts.InstanceId";"30-06122017-10629178LK46T155FXEN959AQJ4ME5B";"";
+"DESIGN";"SICHERUNGSRING FÜR WELLEN STAHL, DIN471, D1=40, S=1,75";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.ClassPath";"NORELEM:30-06122017-106291";"";
