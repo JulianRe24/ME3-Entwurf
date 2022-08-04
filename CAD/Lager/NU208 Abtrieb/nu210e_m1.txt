@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-03122015-098407";"";
+"REFERENCE";"NU210E.M1";"";
+"TraceParts.PartTitle";"Zylinderrollenlager NU, Loslager,";"";
+"TraceParts.InstanceId";"30-03122015-09840739PPBJQB3KJKOI1J8GFUOORDG";"";
+"SUPPLIER";"Spindel- und Lagerungstechnik Fraureuth GmbH";"";
+"DESIGN";"Zylinderrollenlager NU, Loslager,";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TraceParts.PartLanguage";"de";"";

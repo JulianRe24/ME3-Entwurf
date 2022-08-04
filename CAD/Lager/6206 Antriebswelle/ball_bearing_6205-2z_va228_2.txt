@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-05092018-070217";"";
+"REFERENCE";"6205-2Z/VA228";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row, for high temperature applications with shields, Bore Ø 25 mm";"";
+"TraceParts.InstanceId";"33-05092018-0702173BDT2E8LL6V02NY285F39U114";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Deep groove ball bearings, single row, for high temperature applications with shields, Bore Ø 25 mm";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.132";"";
