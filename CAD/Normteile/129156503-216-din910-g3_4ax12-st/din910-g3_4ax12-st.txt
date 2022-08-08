@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09072008-107084";"";
+"REFERENCE";"DIN 910 - d G3/4A x i 12 - St";"";
+"STANDARD";"DIN 910";"";
+"TraceParts.PartTitle";"Verschlussschraube DIN 910 - G3/4A x 12 - St";"";
+"TraceParts.InstanceId";"10-09072008-107084EWYI1HAHGOS2D8EB3CUWEV1X";"";
+"TraceParts.PartLanguage";"de";"";
+"DESIGN";"Verschlussschraube DIN 910 - G3/4A x 12 - St";"";
+"TraceParts.PartVersion";"1.2.9";"";
+"MATERIAL";"Stahl";"";

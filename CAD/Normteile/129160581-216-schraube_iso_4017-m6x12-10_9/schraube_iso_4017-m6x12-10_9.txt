@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Klasse: 10.9";"";
+"REFERENCE";"ISO 4017 - d M6 x l 12 - 10.9";"";
+"MATERIAL";"Stahl";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-10052001-132395";"";
+"STANDARD";"ISO 4017";"";
+"DESIGN";"Sechskantschraube ISO 4017 - M6 x 12 - 10.9";"";
+"TraceParts.InstanceId";"10-10052001-132395CJASDMMVWDIXOIVYWGOXL28NK";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Sechkantschraube - Produktgüteklassen A und B";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
+"TraceParts.PartVersion";"1.5.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISO:10-10052001-132395";"";
+"TraceParts.PartStandardAcronym";"ISO";"";

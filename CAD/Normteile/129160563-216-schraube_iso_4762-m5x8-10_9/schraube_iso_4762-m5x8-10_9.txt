@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-10052001-156187";"";
+"REFERENCE";"ISO 4762 - d M5 x l 8 - 10.9";"";
+"STANDARD";"ISO 4762";"";
+"TraceParts.PartTitle";"Innensechskant-Hutschraube";"";
+"TraceParts.InstanceId";"10-10052001-156187HYCK82UG9XENFJQLMSOUEGDY";"";
+"TraceParts.PartLanguage";"de";"";
+"NOTE";"Klasse: 10.9";"";
+"DESIGN";"Innensechskant-Hutschraube ISO 4762 - M5 x 8 - 10.9";"";
+"TraceParts.PartVersion";"1.5.7";"";
+"MATERIAL";"Stahl";"";
+"OMNICLASS23";"23.13.23.11.13.19";"";
