@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 3760 - A d1 50 x d2 72 x b 8 - FKM";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Lip seal DIN 3760 - A50 x 72 x 8 - FKM";"";
+"TraceParts.PartNumber";"10-18062013-073898";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"DIN 3760";"";
+"TraceParts.InstanceId";"10-18062013-0738986YC2QCF7HFBZ6BJ6Y6U2FO8P4";"";
+"TraceParts.PartTitle";"Rotary shaft lip seals";"";
+"OMNICLASS23";"23.13.23.19";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-18062013-073898";"";
